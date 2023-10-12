@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmed-Omit
 - 👀 I’m interested in Java, Python.
-- 🌱 I’m currently learning Java as a beginner.
 
 
 <!---

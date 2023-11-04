@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed-Omit
+- 👋 Hi, I’m Ahmed-Omit
 - 👀 I’m interested in Java, Python.
 - Now i am learning Data Science
 
